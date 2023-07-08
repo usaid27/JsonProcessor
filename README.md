@@ -12,7 +12,7 @@ The JSON Processor is a Java program that reads a JSON input file, processes eac
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or later
-- Download JSON input file in this repo and give that file path in the code.
+- Download JSON input file from this repo and give that JSON input file path in the code.
 
 ## Setup
 
