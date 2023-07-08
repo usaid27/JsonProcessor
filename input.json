@@ -1,0 +1,22 @@
+[
+{
+"type": "first non repeating",
+"input": "aaabcd"
+},
+{
+"type": "first repeating",
+"input": "skrrt"
+},
+{
+"type": "first repeating",
+"input": "rabbit"
+},
+{
+"type": "first non repeating",
+"input": "barbara"
+},
+{
+"type": "first non repeating",
+"input": "daCacBd"
+}
+]
